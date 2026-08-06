@@ -1,3 +1,15 @@
 {
-  "packages": []
+  "packages": [
+    {
+      "id": "TEST00001",
+      "name": "Test App",
+      "desc": "Application de test",
+      "image": "",
+      "package": "",
+      "version": "1.00",
+      "size": "0 MB",
+      "author": "Test",
+      "type": "Utility"
+    }
+  ]
 }
